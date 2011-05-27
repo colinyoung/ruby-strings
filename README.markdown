@@ -1,4 +1,4 @@
-## Ruby-style inline strings for JavaScript
+# Ruby-style inline strings for JavaScript
 
 Turn this:
 
